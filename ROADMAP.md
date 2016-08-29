@@ -8,10 +8,11 @@ The Node.js Foundation (in partnership with The Linux Foundation) will be perfor
 - Define Scope Statement of Certification 
 - Define the in-browser hosted exam environment which will be provided to candidates. Must be exactly reproducible and consistent in function. 
 - Conduct job task analysis(JTA) which is to define the Domains of work and corresponding Tasks within each domain a Certification Candidate should be able to perform 
-- Define the exam blueprint containing the specific exam Domains and Tasks and their relevant weight within the exam(Domains and Tasks will be opensourced. Blueprint will be secure and not public facing, testrunner will also be opensourced). 
+- Define the exam blueprint containing the specific exam Domains and Tasks and their relevant weight within the exam(Domains and Tasks will be opensourced. Blueprint will be secure and not public facing, testrunner will also be opensourced).
+- Publish determined domains and tasks for ecosystem to prepare complementary trainings with ample notice.
 - Write performance-based exam items (problems to solve) based on the Domains and Tasks defined by the JTA 
     - Exam items must be written and formatted to comply with an auto-grade script that is run on answers provided (i.e. machine-gradeable) 
-    - Consideration of non-English speaking users including items written in a way that they are translatable 
+    - Consideration of non-English speaking users including items written in a way that they are translatable
 
 - Provide subject matter expert (SME) support and review to  
     - Script and program the exam items 
