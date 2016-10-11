@@ -1,7 +1,7 @@
 ####Getting started learning Node.js  
 In Node.js, it’s a challenge to keep learning materials up to date. There are a lot of great tutorials out there that may not be maintained for versions, so our short list here is some great ways to jump in. It is by no means the comprehensive list of ways to get started in learning Node.js!
 
-[NodeSchool.io](nodeschool.io) is an online, distributed community of Node.js folks learning and teaching one another. Take a look at https://github.com/maxogden/art-of-node alongside choosing some of these modules http://nodeschool.io/#workshoppers (a buddy to work with can be helpful here).   
+[NodeSchool.io](http://nodeschool.io) is an online, distributed community of Node.js folks learning and teaching one another. Take a look at https://github.com/maxogden/art-of-node alongside choosing some of these modules http://nodeschool.io/#workshoppers (a buddy to work with can be helpful here).   
   
 If you’d like a refresher of JS or are new to the language, check out http://jsforcats.com/ first!
 
