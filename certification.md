@@ -76,7 +76,7 @@ Below is the final blueprint.
 |:--:	|---------------------------------------------------------------	|:------:	|
 |  1 	| **Unit Testing**                                                  	|   5%   	|
 |  2 	| **Diagnostics** (Basics, Debugging, Performance)                   	|   5%   	|
-|  3 	| **http(s) TCP  **                                                 	|   11%  	|
+|  3 	| **http(s) TCP**                                                 	|   11%  	|
 |  4 	| **Events**                                                        	|   9%   	|
 |  5 	| **Child Processes** (Basics, no IPC/fork)                          	|   7%   	|
 |  6 	| **Buffers and Streams**                                           	|   9%   	|
