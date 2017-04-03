@@ -13,4 +13,4 @@ There are a few courses that are low cost and offer a more comprehensive getting
 - https://www.coursera.org/learn/server-side-development (free but can pay a little for more services such as a certificate of completion and grading)
 - https://www.udemy.com/the-complete-node-js-developer-course/ $19 USD 
 
-We can’t stress enough the power of others in helping your Node.js learning experience. Please check out our [docs](https://nodejs.org/en/docs/) and look for [your local Node.js event](https://nodejs.org/en/get-involved/events/). We’re also [on IRC](http://webchat.freenode.net/?channels=node.js) and happy to answer questions. Say hi!
+We can’t stress enough the power of others in helping your Node.js learning experience. Please check out our [docs](https://nodejs.org/en/docs/) and look for [your local Node.js event](https://nodejs.org/en/get-involved/events/). Check out [help](https://github.com/nodejs/help) for some great community members answering your queries asynchronously. We’re also [on IRC](http://webchat.freenode.net/?channels=node.js) and happy to answer questions. Say hi!
