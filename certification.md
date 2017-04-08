@@ -179,6 +179,6 @@ A subset of these will be provided as part of the isolated exam environment.
 #### Training Materials
 
 - [NodeSchool.io](https://nodeschool.io/)
-  - learnyounode
-  - scope-chains-closures
-  - stream-adventure
+  - [learnyounode](https://github.com/workshopper/learnyounode)
+  - [scope-chains-closures](https://github.com/workshopper/scope-chains-closures)
+  - [stream-adventure](https://github.com/workshopper/stream-adventure)
