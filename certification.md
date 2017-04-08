@@ -167,7 +167,7 @@ A subset of these will be provided as part of the isolated exam environment.
 - [Node Up and Running](http://chimera.labs.oreilly.com/books/1234000001808/index.html)
 - [Node.js in Action](https://www.manning.com/books/node-js-in-action-second-edition)
 - [Node.js the Right Way](https://pragprog.com/book/jwnode/node-js-the-right-way)
-- [You Don’t Know JS](https://pragprog.com/book/jwnode/node-js-the-right-way)
+- [You Don’t Know JS](https://github.com/getify/You-Dont-Know-JS)
 
 #### URLs
 
