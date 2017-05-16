@@ -15,6 +15,10 @@ demonstrate to become a Node.js Certified Developer.
 The process for our workshop is explained below. We’ll start with a few
 premises!
 
+**Please see [this repo](https://github.com/nodejs-certified-developer/certification) for activity specific to certification development.**  
+  
+------------
+
 #### We are certifying early Intermediate level developers.
 
 Developers who certify cannot do everything, but hit the ground running with a
