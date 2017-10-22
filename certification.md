@@ -133,7 +133,7 @@ Recertification requirements and interval:
 
 1. Regulatory requirements:  there are no regulatory requirements for Node.js.
 2. The exam will reflect changes to normative documents annually with LTS cycle.
-3. The exam will reviewed and updated every 2 years    
+3. The exam will be reviewed and updated every 2 years    
 4. The LTS releasesupport cycle reflects the nature and maturity of the industry or field in which the certified person is working.    
 5. The risks resulting from an incompetent person include the following:  bad hire; lost recruitment money; incremental training costs; missed deadlines.   
 6. Ongoing changes in technology, and requirements for certified persons are reflected in ES releases    
