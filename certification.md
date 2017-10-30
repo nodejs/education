@@ -8,8 +8,8 @@ The certification program aims to establish a baseline for competency in
 Node.js. While not an expert in all areas, developers who pass the certification
 will be able to hit the ground running with Node.js professionally.
 
-The Job Task Analyis(JTA) working group determined specific topics for the exam
-and the skills, knowledge and abilities a certified candidate should be able to
+The Job Task Analysis (JTA) working group determined specific topics for the exam
+and the skills, knowledge, and abilities a certified candidate should be able to
 demonstrate to become a Node.js Certified Developer.
 
 The process for our workshop is explained below. We’ll start with a few
