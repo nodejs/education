@@ -8,12 +8,16 @@ The certification program aims to establish a baseline for competency in
 Node.js. While not an expert in all areas, developers who pass the certification
 will be able to hit the ground running with Node.js professionally.
 
-The Job Task Analyis(JTA) working group determined specific topics for the exam
-and the skills, knowledge and abilities a certified candidate should be able to
+The Job Task Analysis (JTA) working group determined specific topics for the exam
+and the skills, knowledge, and abilities a certified candidate should be able to
 demonstrate to become a Node.js Certified Developer.
 
 The process for our workshop is explained below. We’ll start with a few
 premises!
+
+**Please see [this repo](https://github.com/nodejs-certified-developer/certification) for activity specific to certification development.**  
+  
+------------
 
 #### We are certifying early Intermediate level developers.
 
@@ -167,7 +171,7 @@ A subset of these will be provided as part of the isolated exam environment.
 - [Node Up and Running](http://chimera.labs.oreilly.com/books/1234000001808/index.html)
 - [Node.js in Action](https://www.manning.com/books/node-js-in-action-second-edition)
 - [Node.js the Right Way](https://pragprog.com/book/jwnode/node-js-the-right-way)
-- [You Don’t Know JS](https://pragprog.com/book/jwnode/node-js-the-right-way)
+- [You Don’t Know JS](https://github.com/getify/You-Dont-Know-JS)
 
 #### URLs
 
@@ -179,6 +183,6 @@ A subset of these will be provided as part of the isolated exam environment.
 #### Training Materials
 
 - [NodeSchool.io](https://nodeschool.io/)
-  - learnyounode
-  - scope-chains-closures
-  - stream-adventure
+  - [learnyounode](https://github.com/workshopper/learnyounode)
+  - [scope-chains-closures](https://github.com/workshopper/scope-chains-closures)
+  - [stream-adventure](https://github.com/workshopper/stream-adventure)
