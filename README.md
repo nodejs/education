@@ -17,6 +17,6 @@ A few people who are exploring this currently:
 
 Interested in what's going on with Education initiatives from the Node.js Foundation? Check out the [roadmap](https://github.com/nodejs/education/blob/master/ROADMAP.md).
 
-Please participate. File issues, PRs, and create the community you'd like to be a part of. If you need inspiration or have questions that you'd like to ask outside of issues, reach out to tracyhinds@linuxfoundation.org 
+Please participate. File issues, PRs, and create the community you'd like to be a part of. If you need inspiration or have questions that you'd like to ask outside of issues, reach out to @hackygolucky on GitHub, Slack, or Twitter.
 
 
