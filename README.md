@@ -5,17 +5,10 @@ Here we will ask fun questions like, 'what is education in [Node.js](https://nod
 
 Notice we didn't say 'answer'? This [repository](http://techterms.com/definition/repository) exists to explore what it means to be learning Node.js. Who uses it? How are folks learning it? How can we as a community make the experience better and inclusive for existing users and  rad, diverse group of learners? 
 
-**Looking for a few resources on how to start learning Node.js?** [Try here.](https://github.com/nodejs/education/blob/master/getting-started-learning-nodejs.md)  
-  
-------------------------
-
-A few people who are exploring this currently:
-
-- [Tracy Hinds](https://twitter.com/HackyGoLucky), Education Community Manager for the Node.js Foundation
-- Education Advisory Group for the Node.js Foundation
-- Lots of awesome community folks who have been doing cool stuff for a while in Node.js and deserve to be heard, like you!
-
-Interested in what's going on with Education initiatives from the Node.js Foundation? Check out the [roadmap](https://github.com/nodejs/education/blob/master/ROADMAP.md).
+- Looking for a few resources on how to start learning Node.js? [Check out our Getting Started](https://github.com/nodejs/getting-started)
+- Hop into [the Help repo](https://github.com/nodejs/help) to ask questions from our team of helpful contributors.
+- Interested in the Node.js Foundation Certification? [Look no further!](https://github.com/nodejs-certified-developer/certification)
+- Want an introduction to diversity inclusion, and unconscious bias? [Try this free training offered by our partners at the Linux Foundation](https://training.linuxfoundation.org/linux-courses/open-source-compliance-courses/inclusive-speaker-orientation).
 
 Please participate. File issues, PRs, and create the community you'd like to be a part of. If you need inspiration or have questions that you'd like to ask outside of issues, reach out to @hackygolucky on GitHub, Slack, or Twitter.
 
